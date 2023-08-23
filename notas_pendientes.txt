@@ -1,3 +1,5 @@
 Para crear conflicto se debe modificar un archivo tanto en la rama principal y
  en la otra y al hacer merge se da un error 
 nueva tarea
+descargar spider
+Subir a github
